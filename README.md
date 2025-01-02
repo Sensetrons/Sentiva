@@ -4,7 +4,7 @@ Sentiva is an innovative project designed to safeguard sensitive media files and
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Sensitive Media Detection**  
   Detects and flags explicit or private content, ensuring it stays private and secure.
@@ -26,7 +26,7 @@ Sentiva is an innovative project designed to safeguard sensitive media files and
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Media Interception**  
    Sentiva intercepts outgoing media files and scans them for sensitive content using AI models.
@@ -43,7 +43,7 @@ Sentiva is an innovative project designed to safeguard sensitive media files and
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **AI and Machine Learning**  
   - TensorFlow or PyTorch for building AI models.  
@@ -62,7 +62,7 @@ Sentiva is an innovative project designed to safeguard sensitive media files and
 
 ---
 
-## 🔧 Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 - Python 3.8+  
